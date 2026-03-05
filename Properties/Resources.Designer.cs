@@ -63,6 +63,16 @@ namespace WinFormsApp3.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        internal static System.Drawing.Bitmap SW융합대학_로고 {
+            get {
+                object obj = ResourceManager.GetObject("SW융합대학 로고", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         internal static System.Drawing.Bitmap 화면_캡처_2026_03_05_165815 {
             get {
                 object obj = ResourceManager.GetObject("화면 캡처 2026-03-05 165815", resourceCulture);
